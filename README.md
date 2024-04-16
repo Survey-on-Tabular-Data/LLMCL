@@ -47,17 +47,3 @@ customize your training scripts and run it.
 
 
 
-## Acknowledgement
-
-If you find this repository helpful, please consider citing our work.
-
-```bibtex
-@misc{ren2024analyzing,
-      title={Analyzing and Reducing Catastrophic Forgetting in Parameter Efficient Tuning}, 
-      author={Weijieying Ren and Xinlong Li and Lei Wang and Tianxiang Zhao and Wei Qin},
-      year={2024},
-      eprint={2402.18865},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
-}
-```
